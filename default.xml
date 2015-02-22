@@ -4,6 +4,7 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
   <default revision="master" />
 
+  <project name="nsis_fbwf_reboot" remote="gh" />
   <project name="winrackmountwebui" remote="dev" />
   <project name="winapachephp" remote="dev" />
   <project name="sbxrackmount" remote="gh" />
