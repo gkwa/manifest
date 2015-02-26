@@ -4,6 +4,7 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
   <default revision="master" />
 
+  <project name="autossh-helper" remote="gh" />
   <project name="scons-windows-cygwin" remote="gh" />
   <project name="docker-data-only" remote="gh" />
   <project name="docker-baseimage-taylor" remote="gh" />
