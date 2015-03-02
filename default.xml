@@ -4,6 +4,7 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
   <default revision="master" />
 
+  <project name="sbxwwwdev" remote="gh" />
   <project name="amazon-cloudformation-wordpress" remote="gh" />
   <project name="autossh-helper" remote="gh" />
   <project name="scons-windows-cygwin" remote="gh" />
