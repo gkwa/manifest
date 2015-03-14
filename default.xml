@@ -8,7 +8,6 @@
 
   <project name="streambox/lsweb" remote="glab" />
 
-  <project name="git/git" remote="gh2" />
   <project name="gitster/git" remote="gh2" />
 
   <project name="git-cheatsheet" remote="gh" />
