@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
   <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" />
+  <remote fetch="git@gitlab.com" name="glab" />
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
   <default revision="master" />
+
+  <project name="streambox/lsweb" remote="glab" />
 
   <project name="sbxwwwdev" remote="gh" />
   <project name="amazon-cloudformation-wordpress" remote="gh" />
