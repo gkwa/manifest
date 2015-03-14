@@ -7,7 +7,7 @@
 
   <project name="streambox/lsweb" remote="glab" />
 
-  <project name="git-cheatsheet" remote="gh" />
+  <project name="git-cheatsheet" remote="origin" />
   <project name="sbxwwwdev" remote="gh" />
   <project name="amazon-cloudformation-wordpress" remote="gh" />
   <project name="autossh-helper" remote="gh" />
