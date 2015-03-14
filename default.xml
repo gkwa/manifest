@@ -3,10 +3,12 @@
   <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" />
   <remote fetch="ssh://git@gitlab.com" name="glab" />
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
+  <remote fetch="https://github.com" name="gh2" />
   <default revision="master" />
 
   <project name="streambox/lsweb" remote="glab" />
 
+  <project name="gitster/git" remote="gh2" />
   <project name="git-cheatsheet" remote="gh" />
   <project name="sbxwwwdev" remote="gh" />
   <project name="amazon-cloudformation-wordpress" remote="gh" />
