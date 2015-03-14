@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
   <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" />
-  <remote fetch="ssh://git@gitlab.com" name="glab" />
-  <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
+  <remote fetch="ssh://git@gitlab.com" name="glab" alias="origin" />
+  <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
   <default revision="master" />
 
   <project name="streambox/lsweb" remote="glab" />
 
-  <project name="git-cheatsheet" remote="gh" alias="origin" />
+  <project name="git-cheatsheet" remote="gh" />
   <project name="sbxwwwdev" remote="gh" />
   <project name="amazon-cloudformation-wordpress" remote="gh" />
   <project name="autossh-helper" remote="gh" />
