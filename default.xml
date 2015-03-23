@@ -12,6 +12,7 @@
   <project name="git/git" remote="gh2" />
   <project name="gitster/git" remote="gh2" />
 
+  <project name="cscope" remote="gh" />
   <project name="git-cheatsheet" remote="gh" />
   <project name="sbxwwwdev" remote="gh" />
   <project name="amazon-cloudformation-wordpress" remote="gh" />
