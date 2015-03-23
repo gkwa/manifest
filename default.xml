@@ -6,13 +6,13 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
-  <project name="vagrant-razor" remote="glab" />
   <project name="streambox/lsinstall" remote="glab" />
   <project name="streambox/lsweb" remote="glab" />
 
   <project name="git/git" remote="gh2" />
   <project name="gitster/git" remote="gh2" />
 
+  <project name="vagrant-razor" remote="gh" />
   <project name="cscope" remote="gh" />
   <project name="git-cheatsheet" remote="gh" />
   <project name="sbxwwwdev" remote="gh" />
