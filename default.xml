@@ -13,6 +13,7 @@
   <project name="git/git" remote="gh2" />
   <project name="gitster/git" remote="gh2" />
 
+  <project name="learn-junio-git-workflow" remote="gh" />
   <project name="pe-razor-vagrant-stack" remote="gh" />
   <project name="vagrant-razor" remote="gh" />
   <project name="cscope" remote="gh" />
