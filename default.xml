@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
   <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" />
-  <remote fetch="ssh://git@gitlab.com" name="glab" />
+  <remote fetch="ssh://git@gitlab.com" name="glab" alias="origin" />
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
