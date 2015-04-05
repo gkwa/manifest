@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/mysql_win_installer" remote="glab" />
   <project name="streambox/sbxpriv" remote="glab" />
   <project name="streambox/lsinstall" remote="glab" />
   <project name="streambox/lsweb" remote="glab" />
@@ -181,7 +182,6 @@
   <project name="find_storage_drive" remote="dev" />
   <project name="apache_install_ssl_cert" remote="dev" />
   <project name="generate_random_files" remote="dev" />
-  <project name="mysql_win_installer" remote="dev" />
   <project name="apache-testing2-ssl" remote="dev" />
   <project name="apache-testing-ssl" remote="dev" />
   <project name="apache-testing" remote="dev" />
