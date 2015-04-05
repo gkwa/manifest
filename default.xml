@@ -340,7 +340,6 @@
   <project name="linux" remote="dev" />
   <project name="liveencoder-ntsc-osx" remote="dev" />
   <project name="liveencoder-win" remote="dev" />
-  <project name="lstest" remote="dev" />
   <project name="maven-practice" remote="dev" />
   <project name="mediaplayer-hd-osx" remote="dev" />
   <project name="mediaplayer-hd-win32" remote="dev" />
