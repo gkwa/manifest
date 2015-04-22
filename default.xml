@@ -10,6 +10,7 @@
   <project name="streambox/nsisscripts" remote="glab" />
   <project name="streambox/mysql_win_installer" remote="glab" />
   <project name="streambox/keepass" remote="glab" />
+  <project name="streambox/nsis-streambox2" remote="glab" />
   <project name="streambox/testscripts" remote="glab" />
   <project name="streambox/sbxpriv" remote="glab" />
   <project name="streambox/lsinstall" remote="glab" />
