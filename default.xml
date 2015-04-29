@@ -6,6 +6,8 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/myt3" remote="glab" />
+  <project name="streambox/myt5" remote="glab" />
   <project name="streambox/lsbin" remote="glab" />
   <project name="streambox/nsisscripts" remote="glab" />
   <project name="streambox/mysql_win_installer" remote="glab" />
