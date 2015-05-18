@@ -21,6 +21,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="ruby-practice" remote="gh" />
   <project name="osx-keychain-practice" remote="gh" />
   <project name="blackboxtest" remote="gh" />
   <project name="learn-junio-git-workflow" remote="gh" />
