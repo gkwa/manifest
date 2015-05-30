@@ -21,6 +21,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="MachineFactory" remote="gh" />
   <project name="PinnedApplications" remote="gh" />
   <project name="ruby-practice" remote="gh" />
   <project name="osx-keychain-practice" remote="gh" />
