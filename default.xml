@@ -23,6 +23,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="phpformwin" remote="gh" />
   <project name="laravel-practice" remote="gh" />
   <project name="php-laravel-win" remote="gh" />
   <project name="phpwin" remote="gh" />
