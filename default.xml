@@ -23,6 +23,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="phplib" remote="gh" />
   <project name="rabbitmq-practice-win" remote="gh" />
   <project name="rubywin" remote="gh" />
   <project name="gpg-practice" remote="gh" />
