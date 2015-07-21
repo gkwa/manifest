@@ -6,6 +6,9 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="Streambox_QA/Micro-Update" remote="glab" />
+  <project name="Streambox_QA/Update-XML" remote="glab" />
+  <project name="Streambox_QA/Avenir-Testing" remote="glab" />
   <project name="mtm/php-templates-practice" remote="glab" />
   <project name="streambox/ldmpsetwindows" remote="glab" />
   <project name="streambox/lsbin" remote="glab" />
