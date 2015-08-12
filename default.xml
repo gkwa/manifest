@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/sbxwwwdev" remote="glab" />
   <project name="streambox/mktweb" remote="glab" />
   <project name="Streambox_QA/Micro-Update" remote="glab" />
   <project name="Streambox_QA/Update-XML" remote="glab" />
@@ -47,7 +48,6 @@
   <project name="vagrant-razor" remote="gh" />
   <project name="cscope" remote="gh" />
   <project name="git-cheatsheet" remote="gh" />
-  <project name="sbxwwwdev" remote="gh" />
   <project name="amazon-cloudformation-wordpress" remote="gh" />
   <project name="autossh-helper" remote="gh" />
   <project name="scons-windows-cygwin" remote="gh" />
