@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/enexshell" remote="glab" />
   <project name="streambox/sbxwwwdev" remote="glab" />
   <project name="streambox/mktweb" remote="glab" />
   <project name="Streambox_QA/Micro-Update" remote="glab" />
