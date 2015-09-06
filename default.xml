@@ -34,7 +34,6 @@
 
   <project name="gnu-stow-install" remote="gh" />
   <project name="emacs_build" remote="gh" />
-  <project name="emacs-with-yum" remote="gh" />
   <project name="mychocolatey" remote="gh" />
   <project name="php-template-practice" remote="gh" />
   <project name="jspmpractice" remote="gh" />
