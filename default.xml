@@ -32,6 +32,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="emacs_build" remote="gh" />
   <project name="emacs-with-yum" remote="gh" />
   <project name="mychocolatey" remote="gh" />
   <project name="php-template-practice" remote="gh" />
@@ -264,7 +265,6 @@
   <project name="dpinst" remote="dev" />
   <project name="avenir_updates" remote="dev" />
   <project name="rename_encoders_decoders" remote="dev" />
-  <project name="emacs_build" remote="dev" />
   <project name="activation_server_live_server_reactivation_investigation" remote="dev" />
   <project name="m4-practice" remote="dev" />
   <project name="ls_updates" remote="dev" />
