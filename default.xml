@@ -7,7 +7,6 @@
   <default revision="master" />
 
   <project name="streambox/bceputty" remote="glab" />
-  <project name="streambox/lsshared" remote="glab" />
   <project name="streambox/ubapp1" remote="glab" />
   <project name="streambox/BCE_Shell" remote="glab" />
   <project name="streambox/sbxwwwdev" remote="glab" />
