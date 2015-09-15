@@ -31,6 +31,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="linkchecker-parse-results" remote="gh" />
   <project name="docker-logstash-pblittle" remote="gh" />
   <project name="gnu-stow-install" remote="gh" />
   <project name="emacs_build" remote="gh" />
