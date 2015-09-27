@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/packer-practice" remote="glab" />
   <project name="streambox/vagrant-practice" remote="glab" />
   <project name="streambox/benchmark-webserver" remote="glab" />
   <project name="streambox/wwwdev6" remote="glab" />
