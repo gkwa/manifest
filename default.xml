@@ -35,6 +35,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="packer-windows" remote="gh" />
   <project name="docker-compose-flask" remote="gh" />
   <project name="xmllint-practice" remote="gh" />
   <project name="docker-compose-wordpress" remote="gh" />
