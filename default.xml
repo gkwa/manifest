@@ -39,6 +39,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="terraform-practice" remote="gh" />
   <project name="beego-practice" remote="gh" />
   <project name="golang-practice" remote="gh" />
   <project name="consul-install-windows" remote="gh" />
