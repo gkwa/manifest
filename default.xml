@@ -167,6 +167,7 @@
   <project name="weblog" remote="gh" />
   <project name="wedu-control" remote="gh" />
   <project name="windows7_folder_properties" remote="gh" />
+  <project name="wixsharp-practice" remote="gh" />
   <project name="wix-practice" remote="gh" />
 
   <project name="mdt_create_deployment_share" remote="dev" />
