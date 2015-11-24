@@ -39,6 +39,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="chef-repo" remote="gh" />
   <project name="vault-install-windows" remote="gh" />
   <project name="terraform-practice" remote="gh" />
   <project name="beego-practice" remote="gh" />
