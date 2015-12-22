@@ -39,6 +39,7 @@
 
   <project name="mono/mono" remote="gh2" />
 
+  <project name="twitter-react-mtm" remote="gh" />
   <project name="angular-practice" remote="gh" />
   <project name="bootstrap-practice" remote="gh" />
   <project name="es6-tutorial" remote="gh" />
