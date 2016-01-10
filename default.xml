@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/chef" remote="glab" />
   <project name="streambox/tcm-tcmn" remote="glab" />
   <project name="streambox/transcap-setup" remote="glab" />
   <project name="streambox/crawl_ms_myoem" remote="glab" />
