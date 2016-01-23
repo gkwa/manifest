@@ -3,7 +3,7 @@
   <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" alias="origin" />
   <remote fetch="ssh://git@gitlab.com" name="glab" alias="origin" />
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
-  <remote fetch="ssh://git@github.com:TaylorMonacelli" name="gh3" alias="origin" />
+  <remote fetch="git@github.com:TaylorMonacelli" name="gh3" alias="origin" />
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
