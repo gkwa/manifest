@@ -55,7 +55,6 @@
   <project name="chef-repo" remote="gh" />
   <project name="vault-install-windows" remote="gh" />
   <project name="terraform-practice" remote="gh" />
-  <project name="beego-practice" remote="gh" />
   <project name="golang-practice" remote="gh" />
   <project name="consul-install-windows" remote="gh" />
   <project name="pandoc-practice" remote="gh" />
