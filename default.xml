@@ -44,7 +44,6 @@
 
   <project name="git/git" remote="gh2" />
   <project name="gitster/git" remote="gh2" />
-
   <project name="mono/mono" remote="gh2" />
 
   <project name="TaylorMonacelli/install-pecl" remote="gh3" />
