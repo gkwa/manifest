@@ -72,7 +72,7 @@
   <project name="taylormonacelli/docker-logstash-pblittle" remote="gh3" />
   <project name="taylormonacelli/gnu-stow-install" remote="gh3" />
   <project name="taylormonacelli/emacs_build" remote="gh3" />
-  <project name="taylormonacelli/taylormonacelli/mychocolatey" remote="gh3" />
+  <project name="taylormonacelli/mychocolatey" remote="gh3" />
   <project name="taylormonacelli/php-template-practice" remote="gh3" />
   <project name="taylormonacelli/jspmpractice" remote="gh3" />
   <project name="taylormonacelli/phplib" remote="gh3" />
