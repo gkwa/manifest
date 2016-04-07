@@ -128,7 +128,6 @@
   <project name="taylormonacelli/graphviz-practice" remote="gh3" />
   <project name="taylormonacelli/docker-nagios" remote="gh3" />
   <project name="taylormonacelli/capistrano-practice" remote="gh3" />
-  <project name="taylormonacelli/cooking-infrastructure" remote="gh3" />
   <project name="taylormonacelli/osx-private-files-backup" remote="gh3" />
   <project name="taylormonacelli/perl-practice" remote="gh3" />
   <project name="taylormonacelli/java-practice" remote="gh3" />
