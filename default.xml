@@ -45,6 +45,7 @@
 
   <project name="git/git" remote="gh2" />
   <project name="gitster/git" remote="gh2" />
+  <project name="mono/mono" remote="gh2" />
 
   <project name="taylormonacelli/install-pecl" remote="gh3" />
   <project name="taylormonacelli/ratchet-practice" remote="gh3" />
