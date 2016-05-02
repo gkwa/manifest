@@ -8,7 +8,7 @@
   <default revision="master" />
 
   <project name="streambox/install_bce_64" remote="glab" />
-  <project name="streambox/tricaster_dec_installer" remote="glab" />
+  <project name="streambox/streambox-ndi" remote="glab" />
   <project name="streambox/terraform-live-security-group" remote="glab" />
   <project name="streambox/s3policynotes" remote="glab" />
   <project name="streambox/live_server_settings" remote="glab" />
