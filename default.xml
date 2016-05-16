@@ -7,6 +7,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="taylormonacelli/official-images" remote="gh" />
   <project name="streambox/streamboxvr_docker" remote="glab" />
   <project name="streambox/create-ssl-cert" remote="glab" />
   <project name="mtm/packer-windows" remote="glab" />
