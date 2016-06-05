@@ -18,7 +18,6 @@
   <project name="mtm/chef-solo-getting-started" remote="glab" />
   <project name="mtm/postfix-setup" remote="glab" />
   <project name="streambox/av" remote="glab" />
-  <project name="streambox/chef" remote="glab" />
   <project name="streambox/tcm-tcmn" remote="glab" />
   <project name="streambox/transcap-setup" remote="glab" />
   <project name="streambox/crawl_ms_myoem" remote="glab" />
