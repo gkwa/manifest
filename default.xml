@@ -435,7 +435,6 @@
   <project name="osx-packagemaker" remote="dev" />
   <project name="perl-recdescent-practice" remote="dev" />
   <project name="poweredge-bios" remote="dev" />
-  <project name="prod-ls" remote="dev" />
   <project name="qt-decoder-hd-osx" remote="dev" />
   <project name="qt-decoder-sd-osx" remote="dev" />
   <project name="qt-encoder-act-hd-osx" remote="dev" />
