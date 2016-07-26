@@ -54,6 +54,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/ark" remote="gh3" />
   <project name="taylormonacelli/sbxur" remote="gh3" />
   <project name="taylormonacelli/chef-practice-myface" remote="gh3" />
   <project name="taylormonacelli/test-driven-infrastructure-with-chef" remote="gh3" />
