@@ -54,6 +54,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/php-ini-templates" remote="gh3" />
   <project name="taylormonacelli/chef-cookbooks" remote="gh3" />
   <project name="taylormonacelli/win_settings" remote="gh3" />
   <project name="taylormonacelli/ark" remote="gh3" />
