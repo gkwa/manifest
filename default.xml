@@ -7,6 +7,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="mtm/data_bags_test" remote="glab" />
   <project name="streambox/bce-decoder" remote="glab" />
   <project name="streambox/win-encoder-cli" remote="glab" />
   <project name="streambox/ssl_redirect_test" remote="glab" />
