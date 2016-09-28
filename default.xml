@@ -56,6 +56,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/squid_proxy" remote="gh3" />
   <project name="taylormonacelli/virtualbox-chef-helper" remote="gh3" />
   <project name="taylormonacelli/vcruntime" remote="gh3" />
   <project name="taylormonacelli/php-ini-templates" remote="gh3" />
