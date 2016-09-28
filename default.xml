@@ -255,7 +255,6 @@
   <project name="devcon_testing" remote="dev" />
   <project name="window_driver_kit_tools" remote="dev" />
   <project name="aja_card_detect" remote="dev" />
-  <project name="webloc_finagler" remote="dev" />
   <project name="transcap" remote="dev" />
   <project name="cx_freeze_python_setup" remote="dev" />
   <project name="winini_reset_python" remote="dev" />
