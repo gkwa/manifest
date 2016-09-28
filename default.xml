@@ -418,7 +418,6 @@
   <project name="fcp-compressor-presets" remote="dev" />
   <project name="ftpserver" remote="dev" />
   <project name="ftt-win" remote="dev" />
-  <project name="gerrit-setup" remote="dev" />
   <project name="ghost-image-check" remote="dev" />
   <project name="ghost-sync" remote="dev" />
   <project name="git-practice" remote="dev" />
