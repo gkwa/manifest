@@ -11,6 +11,7 @@
   <project name="mtm/data_bags_test" remote="glab" />
   <project name="streambox/decoder-win" remote="glab" />
   <project name="streambox/apache-console-app" remote="glab" />
+  <project name="streambox/sls_decoder" remote="glab" />
   <project name="streambox/winapachephp" remote="glab" />
   <project name="streambox/bce-decoder" remote="glab" />
   <project name="streambox/win-encoder-cli" remote="glab" />
@@ -287,7 +288,6 @@
   <project name="streambox_live_configuration" remote="dev" />
   <project name="npackd_installer" remote="dev" />
   <project name="update_conf" remote="dev" />
-  <project name="sls_decoder" remote="dev" />
   <project name="git-practice-git-subtree-merge1" remote="dev" />
   <project name="streambox_osx_app_installer_certs" remote="dev" />
   <project name="ScaryBugsMac" remote="dev" />
