@@ -9,6 +9,7 @@
 
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
+  <project name="streambox/decoder-win" remote="glab" />
   <project name="streambox/winapachephp" remote="glab" />
   <project name="streambox/bce-decoder" remote="glab" />
   <project name="streambox/win-encoder-cli" remote="glab" />
@@ -405,7 +406,6 @@
   <project name="abn" remote="dev" />
   <project name="bs" remote="dev" />
   <project name="bugzilla-setup" remote="dev" />
-  <project name="decoder-win" remote="dev" />
   <project name="docbook-practice" remote="dev" />
   <project name="droplet" remote="dev" />
   <project name="ds" remote="dev" />
