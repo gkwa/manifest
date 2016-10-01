@@ -10,6 +10,7 @@
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
   <project name="streambox/decoder-win" remote="glab" />
+  <project name="streambox/apache-console-app" remote="glab" />
   <project name="streambox/winapachephp" remote="glab" />
   <project name="streambox/bce-decoder" remote="glab" />
   <project name="streambox/win-encoder-cli" remote="glab" />
@@ -363,7 +364,6 @@
   <project name="tiny_perl_installer" remote="dev" />
   <project name="machine-check" remote="dev" />
   <project name="smp" remote="dev" />
-  <project name="apache-console-app" remote="dev" />
   <project name="ziptest" remote="dev" />
   <project name="ds_withstorage" remote="dev" />
   <project name="virtualbox-practice" remote="dev" />
