@@ -288,6 +288,7 @@
   <project name="compare_smphd_on_2_mac_mini" remote="dev" />
   <project name="tmux-practice" remote="dev" />
   <project name="php-practice" remote="dev" />
+  <project name="taylormonacelli/php-practice2" remote="gh3" />
   <project name="streambox_live_configuration" remote="dev" />
   <project name="npackd_installer" remote="dev" />
   <project name="update_conf" remote="dev" />
