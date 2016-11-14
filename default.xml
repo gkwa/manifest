@@ -8,7 +8,7 @@
   <remote fetch="https://git.nssm.cc" name="nssm" alias="origin" />
   <default revision="master" />
 
-  <project name="nssm/nssm" remote="nssm" />
+  <project name="nssm" remote="nssm" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
   <project name="streambox/decoder-win" remote="glab" />
