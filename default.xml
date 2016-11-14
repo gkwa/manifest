@@ -5,7 +5,7 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
   <remote fetch="ssh://git@github.com" name="gh3" alias="origin" />
   <remote fetch="https://github.com" name="gh2" alias="origin" />
-  <remote fetch="https://git.nssm.cc/nssm/nssm" name="nssm" alias="origin" />
+  <remote fetch="https://git.nssm.cc/nssm" name="nssm" alias="origin" />
   <default revision="master" />
 
   <project name="nssm" remote="nssm" />
