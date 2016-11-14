@@ -7,6 +7,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="nssm" remote="https://git.nssm.cc/nssm/nssm" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
   <project name="streambox/decoder-win" remote="glab" />
