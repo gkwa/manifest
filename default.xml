@@ -5,9 +5,10 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
   <remote fetch="ssh://git@github.com" name="gh3" alias="origin" />
   <remote fetch="https://github.com" name="gh2" alias="origin" />
+  <remote fetch="https://git.nssm.cc/nssm/nssm" name="nssm" alias="origin" />
   <default revision="master" />
 
-  <project name="nssm" remote="https://git.nssm.cc/nssm/nssm" />
+  <project name="nssm" remote="nssm" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
   <project name="streambox/decoder-win" remote="glab" />
