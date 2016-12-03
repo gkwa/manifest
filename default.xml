@@ -63,6 +63,7 @@
   <project name="mono/mono" remote="gh2" />
 
   <project name="taylormonacelli/boxstarter-kickstart" remote="gh3" />
+  <project name="mwrock/boxstarter" remote="gh3" />
   <project name="taylormonacelli/cookbook-ini_file" remote="gh3" />
   <project name="taylormonacelli/chef-cygwin" remote="gh3" />
   <project name="taylormonacelli/boxcutter-windows" remote="gh3" />
