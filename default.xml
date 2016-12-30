@@ -63,6 +63,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/chef-filebeat" remote="gh3" />
   <project name="taylormonacelli/cookbook-elasticsearch" remote="gh3" />
   <project name="taylormonacelli/curl-windows" remote="gh3" />
   <project name="taylormonacelli/boxstarter-kickstart" remote="gh3" />
