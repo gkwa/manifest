@@ -469,7 +469,6 @@
   <project name="qt-encoder-hd-win" remote="dev" />
   <project name="qt-encoder-sd-osx" remote="dev" />
   <project name="qt-encoder-sd-win" remote="dev" />
-  <project name="qt-practice" remote="dev" />
   <project name="qtcodec-win-hd" remote="dev" />
   <project name="qtdecoder-osx" remote="dev" />
   <project name="raid-activation" remote="dev" />
