@@ -9,7 +9,6 @@
   <default revision="master" />
 
   <project name="nssm" remote="nssm" />
-  <project name="mtm/elastic_with_kibana" remote="glab" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
   <project name="streambox/decoder-win" remote="glab" />
@@ -63,6 +62,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="mtm/elastic_with_kibana" remote="glab" />
   <project name="taylormonacelli/chef-kibana" remote="gh3" />
   <project name="taylormonacelli/chef-filebeat" remote="gh3" />
   <project name="taylormonacelli/cookbook-elasticsearch" remote="gh3" />
