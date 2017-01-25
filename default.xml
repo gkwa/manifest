@@ -65,6 +65,7 @@
 
   <project name="mtm/elastic_with_kibana" remote="glab" />
   <project name="taylormonacelli/berks-test" remote="gh3" />
+  <project name="taylormonacelli/vagrant-provision-windows" remote="gh3" />
   <project name="taylormonacelli/chef-kibana-1" remote="gh3" />
   <project name="taylormonacelli/chef-kibana" remote="gh3" />
   <project name="taylormonacelli/chef-filebeat" remote="gh3" />
