@@ -63,6 +63,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/windows-updates" remote="gh3" />
   <project name="mtm/elastic_with_kibana" remote="glab" />
   <project name="taylormonacelli/PinTo10" remote="gh3" />
   <project name="taylormonacelli/berks-test" remote="gh3" />
