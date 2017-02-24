@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
+Stre@mb0x#@1
   <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" alias="origin" />
   <remote fetch="ssh://git@gitlab.com" name="glab" alias="origin" />
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
@@ -63,6 +64,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/chef-omnibus-examples" remote="gh3" />
   <project name="taylormonacelli/rackmount-php-switch-prod-dev" remote="gh3" />
   <project name="taylormonacelli/rackmount-ssl-enable" remote="gh3" />
   <project name="taylormonacelli/chocoinstall" remote="gh3" />
