@@ -12,6 +12,7 @@
   <project name="mtm/logstash_with_elastic_wrapper" remote="glab" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
+  <project name="streambox/sfs-lite" remote="glab" />
   <project name="streambox/ifbserver" remote="glab" />
   <project name="streambox/abn" remote="glab" />
   <project name="streambox/decoder-win" remote="glab" />
@@ -409,7 +410,6 @@
   <project name="mono-practice" remote="dev" />
   <project name="production-find-ls" remote="dev" />
   <project name="plistParsing" remote="dev" />
-  <project name="sfs-lite" remote="dev" />
   <project name="test-trash" remote="dev" />
   <project name="read-qt-tools" remote="dev" />
   <project name="cmake-practice" remote="dev" />
