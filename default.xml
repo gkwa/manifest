@@ -12,6 +12,7 @@
   <project name="mtm/logstash_with_elastic_wrapper" remote="glab" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
+  <project name="streambox/ifbserver" remote="glab" />
   <project name="streambox/abn" remote="glab" />
   <project name="streambox/decoder-win" remote="glab" />
   <project name="streambox/apache-console-app" remote="glab" />
@@ -451,7 +452,6 @@
   <project name="git-practice" remote="dev" />
   <project name="honeypot" remote="dev" />
   <project name="ifb-client-win" remote="dev" />
-  <project name="ifbserver" remote="dev" />
   <project name="jlcskip" remote="dev" />
   <project name="junction-test" remote="dev" />
   <project name="keychain" remote="dev" />
