@@ -67,6 +67,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/scollector-install-win" remote="gh3" />
   <project name="taylormonacelli/gerrit-repo-testing" remote="gh3" />
   <project name="taylormonacelli/omnibus_apache_upgrade_test" remote="gh3" />
   <project name="taylormonacelli/omnibus-windows-service-test" remote="gh3" />
