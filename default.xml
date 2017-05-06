@@ -69,7 +69,6 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
-  <project name="taylormonacelli/chef-scollector" remote="gh3" />
   <project name="taylormonacelli/docker-bosun" remote="gh3" />
   <project name="taylormonacelli/scollector-install-win" remote="gh3" />
   <project name="taylormonacelli/gerrit-repo-testing" remote="gh3" />
