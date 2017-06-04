@@ -69,6 +69,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/mysql_chef_debug" remote="gh3" />
   <project name="taylormonacelli/chef_wordpress" remote="gh3" />
   <project name="taylormonacelli/chef-ssh" remote="gh3" />
   <project name="taylormonacelli/chef-scollector" remote="gh3" />
