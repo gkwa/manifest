@@ -9,6 +9,7 @@
   <default revision="master" />
 
   <project name="nssm" remote="nssm" />
+  <project name="streambox/mdt_create_deployment_share" remote="glab" />
   <project name="mtm/logstash_with_elastic_wrapper" remote="glab" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
@@ -253,7 +254,6 @@
   <project name="taylormonacelli/wixsharp-practice" remote="gh3" />
   <project name="taylormonacelli/wix-practice" remote="gh3" />
 
-  <project name="mdt_create_deployment_share" remote="dev" />
   <project name="copy_osx_keychains" remote="dev" />
   <project name="amazon-boto-practice" remote="dev" />
   <project name="jetS3t" remote="dev" />
