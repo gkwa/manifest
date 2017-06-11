@@ -400,7 +400,6 @@
   <project name="git-check-projects" remote="dev" />
   <project name="lstmptrash" remote="dev" />
   <project name="qt_plus_qt_decoder_install_test" remote="dev" />
-  <project name="rms" remote="dev" />
   <project name="gnuwin32" remote="dev" />
   <project name="php-installer" remote="dev" />
   <project name="makefile-practice" remote="dev" />
