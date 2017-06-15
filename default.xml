@@ -9,6 +9,7 @@
   <default revision="master" />
 
   <project name="nssm" remote="nssm" />
+  <project name="streambox/win7" remote="glab" />
   <project name="streambox/mdt_create_deployment_share" remote="glab" />
   <project name="mtm/logstash_with_elastic_wrapper" remote="glab" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
@@ -442,7 +443,6 @@
   <project name="web-upgrade-practice" remote="dev" />
   <project name="sfc-osx" remote="dev" />
   <project name="osx-webui" remote="dev" />
-  <project name="win7" remote="dev" />
   <project name="nsis-baseline" remote="dev" />
   <project name="bs" remote="dev" />
   <project name="bugzilla-setup" remote="dev" />
