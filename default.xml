@@ -71,6 +71,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/apache2-windows" remote="gh3" />
   <project name="taylormonacelli/chef_apache_windows" remote="gh3" />
   <project name="taylormonacelli/chef_nginx" remote="gh3" />
   <project name="taylormonacelli/chef_dotfiles" remote="gh3" />
