@@ -11,6 +11,7 @@
   <project name="nssm" remote="nssm" />
   <project name="streambox/win7" remote="glab" />
   <project name="streambox/mdt_create_deployment_share" remote="glab" />
+  <project name="mtm/emacs" remote="glab" />
   <project name="mtm/logstash_with_elastic_wrapper" remote="glab" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
@@ -453,7 +454,6 @@
   <project name="docbook-practice" remote="dev" />
   <project name="droplet" remote="dev" />
   <project name="ds" remote="dev" />
-  <project name="emacs" remote="dev" />
   <project name="encoder-hd-osx" remote="dev" />
   <project name="encoder-sd-osx" remote="dev" />
   <project name="encoder-settings" remote="dev" />
