@@ -476,10 +476,10 @@
   <project name="liveencoder-ntsc-osx" remote="dev" />
   <project name="liveencoder-win" remote="dev" />
   <project name="maven-practice" remote="dev" />
-  <project name="mediaplayer-hd-osx" remote="dev" />
+  <project name="streambox/mediaplayer-hd-osx" remote="glab" />
   <project name="streambox/mediaplayer-hd-win32" remote="glab" />
-  <project name="mediaplayer-sd-osx" remote="dev" />
-  <project name="mediaplayer-sd-win32" remote="dev" />
+  <project name="streambox/mediaplayer-sd-osx" remote="glab" />
+  <project name="streambox/mediaplayer-sd-win32" remote="glab" />
   <project name="memorycheck" remote="dev" />
   <project name="mp-hd-win32" remote="dev" />
   <project name="nfs" remote="dev" />
