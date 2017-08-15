@@ -72,6 +72,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/vimrc" remote="gh3" />
   <project name="taylormonacelli/wordpress-cookbook" remote="gh3" />
   <project name="taylormonacelli/a2enmod" remote="gh3" />
   <project name="taylormonacelli/apache2-windows" remote="gh3" />
