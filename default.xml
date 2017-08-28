@@ -72,6 +72,10 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/fzf-filemru-settings" remote="gh3" />
+  <project name="taylormonacelli/nerdcommenter-settings" remote="gh3" />
+  <project name="taylormonacelli/netrw-settings" remote="gh3" />
+  <project name="taylormonacelli/vim-miscellaneous-settings" remote="gh3" />
   <project name="taylormonacelli/win-a2enmod" remote="gh3" />
   <project name="taylormonacelli/chef_vimrc" remote="gh3" />
   <project name="taylormonacelli/wordpress-cookbook" remote="gh3" />
