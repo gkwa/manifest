@@ -9,6 +9,7 @@
   <default revision="master" />
 
   <project name="nssm" remote="nssm" />
+  <project name="mtm/monacelli_chef_selenium" remote="glab" />
   <project name="streambox/win7" remote="glab" />
   <project name="streambox/mdt_create_deployment_share" remote="glab" />
   <project name="mtm/emacs" remote="glab" />
