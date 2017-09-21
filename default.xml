@@ -17,6 +17,7 @@
   <project name="mtm/logstash_with_elastic_wrapper" remote="glab" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
+  <project name="streambox/apache_install_ssl_cert" remote="glab" />
   <project name="streambox/cnn_es_apache_conf" remote="glab" />
   <project name="streambox/bosun-streambox" remote="glab" />
   <project name="streambox/sfs-lite" remote="glab" />
@@ -338,7 +339,6 @@
   <project name="python_practice" remote="dev" />
   <project name="nagios_nsclient_installer" remote="dev" />
   <project name="find_storage_drive" remote="dev" />
-  <project name="apache_install_ssl_cert" remote="dev" />
   <project name="generate_random_files" remote="dev" />
   <project name="apache-testing2-ssl" remote="dev" />
   <project name="apache-testing-ssl" remote="dev" />
