@@ -10,6 +10,7 @@
 
   <project name="nssm" remote="nssm" />
   <project name="streambox/livemisc" remote="glab" />
+  <project name="mtm/prometheus-platform" remote="glab" />
   <project name="mtm/monacelli_chef_selenium" remote="glab" />
   <project name="streambox/win7" remote="glab" />
   <project name="streambox/mdt_create_deployment_share" remote="glab" />
@@ -76,7 +77,6 @@
   <project name="mono/mono" remote="gh2" />
 
   <project name="taylormonacelli/iStreamPlanet" remote="gh3" />
-  <project name="taylormonacelli/prometheus-platform" remote="gh3" />
   <project name="taylormonacelli/chef-prometheus-exporters" remote="gh3" />
   <project name="taylormonacelli/vim-projectroot-settings" remote="gh3" />
   <project name="taylormonacelli/fzf-settings" remote="gh3" />
