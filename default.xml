@@ -491,6 +491,7 @@
   <project name="liveencoder-ntsc-osx" remote="dev" />
   <project name="liveencoder-win" remote="dev" />
   <project name="maven-practice" remote="dev" />
+  <project name="streambox/rackmount_webui" remote="glab" />
   <project name="streambox/mediaplayer-hd-osx" remote="glab" />
   <project name="streambox/mediaplayer-hd-win32" remote="glab" />
   <project name="streambox/mediaplayer-sd-osx" remote="glab" />
