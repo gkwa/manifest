@@ -75,6 +75,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/chef-logstash" remote="gh3" />
   <project name="taylormonacelli/prometheus-platform" remote="gh3" />
   <project name="taylormonacelli/iStreamPlanet" remote="gh3" />
   <project name="taylormonacelli/chef-prometheus-exporters" remote="gh3" />
