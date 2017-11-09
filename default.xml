@@ -16,7 +16,7 @@
   <project name="mtm/emacs" remote="glab" />
   <project name="mtm/logstash_with_elastic_wrapper" remote="glab" />
   <project name="mtm/chef-with-vagrant-journey" remote="glab" />
-  <project name="mtm/amplero-file-move" remote="glab" />
+  <project name="mtm/amplero-move-file" remote="glab" />
   <project name="mtm/data_bags_test" remote="glab" />
   <project name="streambox/apache_install_ssl_cert" remote="glab" />
   <project name="streambox/cnn_es_apache_conf" remote="glab" />
