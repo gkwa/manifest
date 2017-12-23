@@ -76,6 +76,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/myworkstation" remote="gh3" />
   <project name="taylormonacelli/streambox_mail" remote="gh3" />
   <project name="taylormonacelli/lambda-schedule-ebs-snapshot-backups" remote="gh3" />
   <project name="taylormonacelli/chef-logstash" remote="gh3" />
