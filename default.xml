@@ -76,6 +76,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/google-api-python-client-test" remote="gh3" />
   <project name="taylormonacelli/rensha256" remote="gh3" />
   <project name="taylormonacelli/myworkstation" remote="gh3" />
   <project name="taylormonacelli/streambox_mail" remote="gh3" />
