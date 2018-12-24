@@ -76,6 +76,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/bash-practice" remote="gh3" />
   <project name="taylormonacelli/wand_pro_timecard" remote="gh3" />
   <project name="taylormonacelli/K8s-Webinar-ConfigMaps-Secrets" remote="gh3" />
   <project name="taylormonacelli/aws-batch-demo" remote="gh3" />
