@@ -98,7 +98,6 @@
   <project name="taylormonacelli/vim-miscellaneous-settings" remote="gh3" />
   <project name="taylormonacelli/win-a2enmod" remote="gh3" />
   <project name="taylormonacelli/chef_vimrc" remote="gh3" />
-  <project name="taylormonacelli/wordpress-cookbook" remote="gh3" />
   <project name="taylormonacelli/a2enmod" remote="gh3" />
   <project name="taylormonacelli/apache2-windows" remote="gh3" />
   <project name="taylormonacelli/chef_apache_windows" remote="gh3" />
