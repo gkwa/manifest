@@ -76,6 +76,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/filesize_from_stdin" remote="gh3" />
   <project name="taylormonacelli/jinja2_practice" remote="gh3" />
   <project name="taylormonacelli/globalprotect-vpn-automate" remote="gh3" />
   <project name="taylormonacelli/intellij-add-modules-from-source" remote="gh3" />
