@@ -76,6 +76,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/conditionally-pause-backblaze" remote="gh3" />
   <project name="taylormonacelli/emacs-test-org-mode" remote="gh3" />
   <project name="taylormonacelli/azure-pipelines-practice" remote="gh3" />
   <project name="taylormonacelli/macos-create-launchd-script" remote="gh3" />
