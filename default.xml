@@ -76,6 +76,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/python-create-m3u-playlist-from-directory" remote="gh3" />
   <project name="taylormonacelli/practicing_flask" remote="gh3" />
   <project name="taylormonacelli/practice-vault-with-consul" remote="gh3" />
   <project name="taylormonacelli/show-urls-for-recent-homebrews" remote="gh3" />
