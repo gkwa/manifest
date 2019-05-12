@@ -76,6 +76,7 @@
   <project name="gitster/git" remote="gh2" />
   <project name="mono/mono" remote="gh2" />
 
+  <project name="taylormonacelli/restore-from-aws-glacier" remote="gh3" />
   <project name="taylormonacelli/build-go-apps-gorilla-toolkit" remote="gh3" />
   <project name="taylormonacelli/notes" remote="gh3" />
   <project name="taylormonacelli/python-create-m3u-playlist-from-directory" remote="gh3" />
