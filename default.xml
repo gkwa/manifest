@@ -9,68 +9,6 @@
   <default revision="master" />
 
   <project name="nssm" remote="nssm" />
-  <project name="streambox/livemisc" remote="glab" />
-  <project name="mtm/monacelli_chef_selenium" remote="glab" />
-  <project name="streambox/win7" remote="glab" />
-  <project name="streambox/mdt_create_deployment_share" remote="glab" />
-  <project name="mtm/emacs" remote="glab" />
-  <project name="mtm/logstash_with_elastic_wrapper" remote="glab" />
-  <project name="mtm/chef-with-vagrant-journey" remote="glab" />
-  <project name="mtm/amplero-move-file" remote="glab" />
-  <project name="mtm/data_bags_test" remote="glab" />
-  <project name="streambox/apache_install_ssl_cert" remote="glab" />
-  <project name="streambox/cnn_es_apache_conf" remote="glab" />
-  <project name="streambox/bosun-streambox" remote="glab" />
-  <project name="streambox/sfs-lite" remote="glab" />
-  <project name="streambox/ifbserver" remote="glab" />
-  <project name="streambox/abn" remote="glab" />
-  <project name="streambox/decoder-win" remote="glab" />
-  <project name="streambox/apache-console-app" remote="glab" />
-  <project name="streambox/sls_decoder" remote="glab" />
-  <project name="streambox/winapachephp" remote="glab" />
-  <project name="streambox/bce-decoder" remote="glab" />
-  <project name="streambox/win-encoder-cli" remote="glab" />
-  <project name="streambox/ssl_redirect_test" remote="glab" />
-  <project name="streambox/streamboxvr_docker" remote="glab" />
-  <project name="streambox/create-ssl-cert" remote="glab" />
-  <project name="mtm/packer-windows" remote="glab" />
-  <project name="streambox/install_bce_64" remote="glab" />
-  <project name="streambox/streambox-ndi" remote="glab" />
-  <project name="streambox/terraform-live-security-group" remote="glab" />
-  <project name="streambox/s3policynotes" remote="glab" />
-  <project name="streambox/live_server_settings" remote="glab" />
-  <project name="mtm/chef-solo-getting-started" remote="glab" />
-  <project name="mtm/postfix-setup" remote="glab" />
-  <project name="streambox/av" remote="glab" />
-  <project name="streambox/tcm-tcmn" remote="glab" />
-  <project name="streambox/transcap-setup" remote="glab" />
-  <project name="streambox/crawl_ms_myoem" remote="glab" />
-  <project name="streambox/docker_backup_wwwdev5" remote="glab" />
-  <project name="streambox/lsshared" remote="glab" />
-  <project name="streambox/packer-practice" remote="glab" />
-  <project name="streambox/vagrant-practice" remote="glab" />
-  <project name="streambox/benchmark-webserver" remote="glab" />
-  <project name="streambox/wwwdev6" remote="glab" />
-  <project name="streambox/bceputty" remote="glab" />
-  <project name="streambox/ubapp1" remote="glab" />
-  <project name="streambox/BCE_Shell" remote="glab" />
-  <project name="streambox/sbxwwwdev" remote="glab" />
-  <project name="streambox/mktweb" remote="glab" />
-  <project name="Streambox_QA/Micro-Update" remote="glab" />
-  <project name="Streambox_QA/Update-XML" remote="glab" />
-  <project name="Streambox_QA/Avenir-Testing" remote="glab" />
-  <project name="mtm/php-templates-practice" remote="glab" />
-  <project name="streambox/ldmpsetwindows" remote="glab" />
-  <project name="streambox/lsbin" remote="glab" />
-  <project name="streambox/nsisscripts" remote="glab" />
-  <project name="streambox/mysql_win_installer" remote="glab" />
-  <project name="streambox/keepass" remote="glab" />
-  <project name="streambox/nsis-streambox2" remote="glab" />
-  <project name="streambox/testscripts" remote="glab" />
-  <project name="streambox/sbxpriv" remote="glab" />
-  <project name="streambox/lsinstall" remote="glab" />
-  <project name="streambox/lsweb" remote="glab" />
-  <project name="streambox/lsinstallmanifest" remote="glab" />
 
   <project name="git/git" remote="gh2" />
   <project name="gitster/git" remote="gh2" />
@@ -137,7 +75,6 @@
   <project name="taylormonacelli/rackmount-ssl-enable" remote="gh3" />
   <project name="taylormonacelli/chocoinstall" remote="gh3" />
   <project name="taylormonacelli/my_windows_pinning" remote="gh3" />
-  <project name="mtm/elastic_with_kibana" remote="glab" />
   <project name="taylormonacelli/PinTo10" remote="gh3" />
   <project name="taylormonacelli/berks-test" remote="gh3" />
   <project name="taylormonacelli/vagrant-provision-windows" remote="gh3" />
@@ -303,9 +240,4 @@
   <project name="taylormonacelli/wix-practice" remote="gh3" />
 
   <project name="taylormonacelli/php-practice2" remote="gh3" />
-  <project name="streambox/rackmount_webui" remote="glab" />
-  <project name="streambox/mediaplayer-hd-osx" remote="glab" />
-  <project name="streambox/mediaplayer-hd-win32" remote="glab" />
-  <project name="streambox/mediaplayer-sd-osx" remote="glab" />
-  <project name="streambox/mediaplayer-sd-win32" remote="glab" />
 </manifest>
