@@ -5,10 +5,8 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
   <remote fetch="ssh://git@github.com" name="gh3" alias="origin" />
   <remote fetch="https://github.com" name="gh2" alias="origin" />
-  <remote fetch="git://git.nssm.cc/nssm" name="nssm" alias="origin" />
   <default revision="master" />
 
-  <project name="nssm" remote="nssm" />
   <project name="taylormonacelli/nodejs-getting-started" remote="gh3" />
   <project name="taylormonacelli/creating-web-applications-go-update" remote="gh3" />
   <project name="taylormonacelli/build-go-apps-gorilla-toolkit" remote="gh3" />
