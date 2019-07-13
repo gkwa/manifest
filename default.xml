@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
-  <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" alias="origin" />
   <remote fetch="ssh://git@gitlab.com" name="glab" alias="origin" />
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
   <remote fetch="ssh://git@github.com" name="gh3" alias="origin" />
