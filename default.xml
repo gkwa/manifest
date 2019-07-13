@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="taylormonacelli/jerakia-test" remote="gh3" />
   <project name="taylormonacelli/nodejs-getting-started" remote="gh3" />
   <project name="taylormonacelli/creating-web-applications-go-update" remote="gh3" />
   <project name="taylormonacelli/build-go-apps-gorilla-toolkit" remote="gh3" />
@@ -146,7 +147,6 @@
   <project name="taylormonacelli/docker-data-only" remote="gh3" />
   <project name="taylormonacelli/docker-baseimage-taylor" remote="gh3" />
   <project name="taylormonacelli/nsis_fbwf_reboot" remote="gh3" />
-
   <project name="taylormonacelli/sbxrackmount" remote="gh3" />
   <project name="taylormonacelli/make-avenir-usb" remote="gh3" />
   <project name="taylormonacelli/sbx-encoder-presets" remote="gh3" />
