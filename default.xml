@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="leepa/aws-serverless-airline-booking" remote="gh3" />
   <project name="taylormonacelli/jerakia-test" remote="gh3" />
   <project name="taylormonacelli/nodejs-getting-started" remote="gh3" />
   <project name="taylormonacelli/creating-web-applications-go-update" remote="gh3" />
