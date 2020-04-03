@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/sbxprometheus" remote="glab" />
   <project name="streambox/lsweb" remote="glab" />
 
   <project name="TaylorMonacelli/store_search" remote="gh3" />
