@@ -213,7 +213,7 @@
   <project name="taylormonacelli/bup-practice" remote="gh3" />
   <project name="taylormonacelli/bwoken" remote="gh3" />
   <project name="taylormonacelli/convert_ip_to_integer" remote="gh3" />
-  <project name="taylormonacelli/cygwin-setup" remote="gh3" />
+  <project name="TaylorMonacelli/cygwin-setup" remote="gh3" />
   <project name="taylormonacelli/emacs_batch_mode_practice" remote="gh3" />
   <project name="taylormonacelli/find_duplicate_files" remote="gh3" />
   <project name="taylormonacelli/homebrew" remote="gh3" />
