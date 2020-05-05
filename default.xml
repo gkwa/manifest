@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/apache_install_ssl_cert" remote="glab" />
   <project name="mtm/test-gitlab-cicd" remote="glab" />
   <project name="streambox/sbxprometheus" remote="glab" />
   <project name="streambox/sendstream" remote="glab" />
