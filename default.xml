@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
-  <remote fetch="ssh://git@mtm.gitlab.com" name="glab" alias="origin" />
+  <remote fetch="ssh://git@gitlab.com" name="glab" alias="origin" />
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" alias="origin" />
   <remote fetch="ssh://git@github.com" name="gh3" alias="origin" />
   <remote fetch="https://github.com" name="gh2" alias="origin" />
