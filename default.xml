@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="streambox/mysql_win_installer" remote="glab" />
   <project name="streambox/ansible" remote="glab" />
   <project name="streambox/lsinstall" remote="glab" />
   <project name="streambox/apache_install_ssl_cert" remote="glab" />
