@@ -18,7 +18,7 @@
   <project name="mtm/emacs" remote="glab" />
   <project name="streambox/lsweb" remote="glab" />
 
-  <project name="taylormonacelli/quserwrapper" remote="gh3" />
+  <project name="TaylorMonacelli/quserwrapper" remote="gh3" />
   <project name="TaylorMonacelli/store_search" remote="gh3" />
   <project name="aws-samples/aws-serverless-airline-booking" remote="gh3" />
   <project name="leepa/aws-serverless-airline-booking" remote="gh3" />
