@@ -6,17 +6,19 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="mtm/sbxlivecheck" remote="glab" />
+  <project name="mtm/test-gitlab-cicd" remote="glab" />
+  <project name="mtm/emacs" remote="glab" />
+
   <project name="streambox/spectra_installer" remote="glab" />
   <project name="streambox/nsis-streambox2" remote="glab" />
   <project name="streambox/mysql_win_installer" remote="glab" />
   <project name="streambox/ansible" remote="glab" />
   <project name="streambox/lsinstall" remote="glab" />
   <project name="streambox/apache_install_ssl_cert" remote="glab" />
-  <project name="mtm/test-gitlab-cicd" remote="glab" />
   <project name="streambox/sbxprometheus" remote="glab" />
   <project name="streambox/sendstream" remote="glab" />
   <project name="streambox/ifbserver" remote="glab" />
-  <project name="mtm/emacs" remote="glab" />
   <project name="streambox/lsweb" remote="glab" />
 
   <project name="TaylorMonacelli/quserwrapper" remote="gh3" />
