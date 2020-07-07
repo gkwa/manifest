@@ -6,6 +6,7 @@
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
 
+  <project name="mtm/MyApplication2" remote="glab" />
   <project name="mtm/sbxlivecheck" remote="glab" />
   <project name="mtm/test-gitlab-cicd" remote="glab" />
   <project name="mtm/emacs" remote="glab" />
