@@ -10,6 +10,7 @@
   <project name="mtm/test-gitlab-cicd" remote="glab" />
   <project name="mtm/emacs" remote="glab" />
 
+  <project name="streambox/qt-encoder-hd-osx" remote="glab" />
   <project name="streambox/spectra_installer" remote="glab" />
   <project name="streambox/nsis-streambox2" remote="glab" />
   <project name="streambox/mysql_win_installer" remote="glab" />
