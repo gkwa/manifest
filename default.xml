@@ -5,7 +5,6 @@
   <remote fetch="ssh://git@github.com" name="gh3" alias="origin" />
   <remote fetch="https://github.com" name="gh2" alias="origin" />
   <default revision="master" />
-  <project name="" remote="glab" />
   <project name="Streambox_QA/Avenir-Testing" remote="glab" />
   <project name="Streambox_QA/Micro-Drone-Software" remote="glab" />
   <project name="Streambox_QA/Micro-Firmware" remote="glab" />
